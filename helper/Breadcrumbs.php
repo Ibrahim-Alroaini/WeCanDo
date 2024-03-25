@@ -1,0 +1,12 @@
+<div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+      <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+
+        <h2>Service Details</h2>
+
+        <ol>
+          <li><a href="../../index.php">Home</a></li>
+          <li>Service Details</li>
+        </ol>
+
+      </div>
+    </div>
